@@ -1,0 +1,101 @@
+html, body {
+    height: 100%;
+}
+.header {
+    height: 8%;
+    background-image: linear-gradient(to right, rgba(67,85,180,1.000), rgba(36,17,95,1.000));
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    display: block;
+}
+.main {
+    background-color: white;
+    height: 100%;
+}
+.columnOne {
+    width: 25%;
+    display: inline-block;
+}
+.directions {
+    color: black;
+    font-weight: bold;
+    font-size: 15px;  
+    height: 30px;  
+    margin-bottom: 5px;
+}
+.input {
+    color: black;
+    font-size: 15px;  
+    height: 30px;  
+    margin-bottom: 5px;
+}
+.search {
+    width: 100%;
+    background-color: rgb(104,145,228);
+    color: white;
+    border-radius: 7px;
+    height: 30px;
+    margin-bottom: 5px;
+}
+.atlanta{
+    width: 100%;
+    background-color: rgb(175,175,175);
+    color: black;
+    border-radius: 5px;
+    height: 30px;
+}
+.denver {
+    width: 100%;
+    background-color: rgb(175,175,175);
+    color: black;
+    border-radius: 5px;
+    height: 30px;
+}
+.seattle {
+    width: 100%;
+    background-color: rgb(175,175,175);
+    color: black;
+    border-radius: 5px;
+    height: 30px;
+}
+.sanFran {
+    width: 100%;
+    background-color: rgb(175,175,175);
+    color: black;
+    border-radius: 5px;
+    height: 30px;
+}
+.orlando {
+    width: 100%;
+    background-color: rgb(175,175,175);
+    color: black;
+    border-radius: 5px;
+    height: 30px;
+}
+.newYork {
+    width: 100%;
+    background-color: rgb(175,175,175);
+    color: black;
+    border-radius: 5px;
+    height: 30px;
+}
+.chicago {
+    width: 100%;
+    background-color: rgb(175,175,175);
+    color: black;
+    border-radius: 5px;
+    height: 30px;
+}
+.austin {
+    width: 100%;
+    background-color: rgb(175,175,175);
+    color: black;
+    border-radius: 7px;
+    height: 30px;
+}
+.columnTwo {
+    width: 75%;
+    display: inline-block;
+}
